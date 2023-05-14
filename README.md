@@ -7,16 +7,16 @@ Assets holds the data.json file. This is also a place where we can add images or
 
 "css" holds stylesheets. The normalize stylesheet aims to make styling consistent across browsers, and the main.css file is where we can write custom styles for our webpage. You are welcome to add more css files or any other css tools of your preference. The provided stylesheets are already imported into the index.html file. 
 
-"js" contains a main.js file. This script is already loaded into the index.html file. A basic script is implemented that tells the browser to fetch and render JSON data when the user clicks the button.
+"js" contains a main.js file. This script is imported into the index.html file. A basic script is implemented that tells the browser to fetch and render JSON data when the user clicks the button.
 
 The index.html file is the starting point. More pages can always be added.
 
 
 ## How to Get Started with this boilerplate
 
-### System Requirements
+#### System Requirements
 
-No special installations should be required to run the existing code. We recommend you use a code editor such as VS Code. Never used VS Code before? Check out our tutorial.
+No special installations should be required to run the existing code. We recommend you use a code editor such as VS Code.
 
 You can also use in the browser editors such as CodePen and Repl.
 
@@ -63,8 +63,3 @@ Right now, we aren't doing much with the JSON. It's possible to use JavaScript a
 
 
 ## Additional Resources
-
-Want to read more about this repository or next steps? You can check out our youtube videos and blog posts:
-
-(link)
-(link)
