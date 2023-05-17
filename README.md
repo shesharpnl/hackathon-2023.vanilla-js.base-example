@@ -35,7 +35,7 @@ Before you can install, use this project and add extra functionalities to it, yo
 - **A personal GitHub account**. If you don't already have one, you can sign up for free [here](https://github.com/).
 - **Git**: this is a version control system that allows you to manage and track changes to your code. You can download and install Git from the official website [here](https://git-scm.com/downloads).
 - **A terminal**: this is the application that allows you to enter commands into your computer. You can use the default terminal on your operating system, or install a third-party terminal such as [iTerm2](https://iterm2.com/) for macOS or [Windows Terminal](https://aka.ms/terminal) for Windows.
-- **A code editor**: this is the application that allows you to write and edit code. You can use any code editor of your choice, such as [Visual Studio Code](https://code.visualstudio.com/), [Atom](https://atom.io/), or [Sublime Text](https://www.sublimetext.com/).
+- **A code editor**: this is the application that allows you to write and edit code. One popular code editor choice is [Visual Studio Code](https://code.visualstudio.com/).
 - **JavaScript**: this is the programming language used in this project. You don't need to install it separately, as it comes pre-installed with most web browsers.
 - **Google Chrome**: Google Chrome is a web browser with useful developer tools that allow you to inspect page elements and view the browsers console. [Google Chrome Web Browser](https://www.google.com/chrome/)
 
@@ -75,9 +75,7 @@ If you are cloning the repository using SSH, you will need to set up authenticat
 ### 3) Install dependencies
 
 For this project, we recommend a live server extenstion for your code editor.
-[Atom Live Server](https://github.com/jas-chen/atom-live-server)
 [VS Code Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-[Sublime Text Live Server](https://github.com/molnarmark/sublime-live-server)
 
 ## Usage
 
