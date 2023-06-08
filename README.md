@@ -30,6 +30,11 @@ The index.html file is the starting point. More pages can always be added.
 
 ## Prerequisites
 
+
+## Hold up! Want to just code in your browser?
+
+You can access the project on Codepen.io as a template. You will need a Codepen account! Once you've signed into your account, [click this link](https://codepen.io/mariahlaqua/pen/MWzYObG), and from the bottom right corner choose fork! Otherwise, continue reading...
+
 Before you can install, use this project and add extra functionalities to it, you need to have the following prerequisites and software installed on your computer:
 
 - **A personal GitHub account**. If you don't already have one, you can sign up for free [here](https://github.com/).
@@ -49,9 +54,6 @@ To install and being able to use this frontend project, you need to fork this re
 - [2) Clone the repository](#cloning-the-repository)
 - [3) Install dependencies](#installing-dependencies)
 
-## Hold up! Want to just code in your browser?
-
-You can access the project on Codepen.io as a template. You will need a Codepen account! Once you've signed into your account, [click this link](https://codepen.io/mariahlaqua/pen/MWzYObG), and from the bottom right corner choose fork!
 
 
 ### 1) Fork the repository
