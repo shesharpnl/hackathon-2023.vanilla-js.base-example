@@ -119,7 +119,21 @@ By console logging we can see some output of our code, as well as any error mess
 
 Our custom styles can be declared in the 'main.css' file within the css folder. Some simple classes are defined that allow our button to have a bit of flare and the entire body to have some style. You can experiment with styling whole elements (such as the body selector) or create custom classes (such as the .btn class).
 
-### Deploying with github pages
+### Deploying with GitHub pages
+
+If you'd like to see your webpage live, you can easily deploy with GitHub pages. Simply go to your forked repository on your github account and choose settings. On the left sidebar navigation then choose "Pages." Choose the branch to deploy from - usually main - and select save. This process can take a minute or two, so feel free to take a stretch break and refresh the page when you're back.
+
+![Screenshot of Github Pages dashboard within repo settings.](./assets/githubpages.png)
+
+Nice. There's just one more small change we need to make in our script.js file to get everything up and running on our live github site.
+
+Head to your repository in the browser. Open the assets folder, choose the json file and click on "raw" from the toolbar at the top of the file preview. You should see something like this:
+
+![Raw json in the browser screenshot](./assets/rawjson.png)
+
+In the address bar of your browser copy the whole raw.githubuser url. Replace the fetch url with the url you copied. The fetch url is the highlighted text in this image:
+
+![screenshot of a code editor with local file url highlighted](./assets/replaceURL.png)
 
 ## Contributing
 
