@@ -133,7 +133,7 @@ Head to your repository in the browser. Open the assets folder, choose the json 
 
 In the address bar of your browser copy the whole raw.githubuser url. Replace the fetch url with the url you copied. The fetch url is the highlighted text in this image:
 
-![screenshot of a code editor with local file url highlighted](./assets/replaceURL.png)
+![screenshot of a code editor with local file url highlighted](./assets/replaceURL.png`)
 
 ## Contributing
 
