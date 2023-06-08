@@ -43,11 +43,16 @@ Once you have all of these prerequisites, you're ready to move on to the install
 
 ## Installation
 
-To install and being able to use this Slack bot, you need to fork this repository to your own GitHub account and then clone your forked repository to your local machine.
+To install and being able to use this frontend project, you need to fork this repository to your own GitHub account and then clone your forked repository to your local machine.
 
 - [1) Fork the repository](#forking-the-repository)
 - [2) Clone the repository](#cloning-the-repository)
 - [3) Install dependencies](#installing-dependencies)
+
+## Hold up! Want to just code in your browser?
+
+You can access the project on Codepen.io as a template. You will need a Codepen account! Once you've signed into your account, [click this link](https://codepen.io/mariahlaqua/pen/MWzYObG), and from the bottom right corner choose fork!
+
 
 ### 1) Fork the repository
 
