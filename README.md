@@ -119,6 +119,8 @@ By console logging we can see some output of our code, as well as any error mess
 
 Our custom styles can be declared in the 'main.css' file within the css folder. Some simple classes are defined that allow our button to have a bit of flare and the entire body to have some style. You can experiment with styling whole elements (such as the body selector) or create custom classes (such as the .btn class).
 
+### Deploying with github pages
+
 ## Contributing
 
 Contributions to this project are welcome! If you find a bug, have a feature request, or want to contribute code, please follow these guidelines:
