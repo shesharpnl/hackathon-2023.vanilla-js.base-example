@@ -20,11 +20,8 @@ The index.html file is the starting point. More pages can always be added.
     - [2) Clone the repository](#cloning-the-repository)
     - [3) Install dependencies](#installing-dependencies)
 - [Usage](#usage)
-    * [Inspect the GitHub Action execution logs](#inspect-the-github-action-execution-logs)
-    * [Run the script.js directly from your local machine](#run-the-scriptjs-directly-from-your-local-machine)
-- [How this project works](#how-this-project-works)
-    * [Scheduled GitHub Workflow](#scheduled-github-workflow)
-    * [The scheduled script written in JavaScript](#the-scheduled-script-written-in-javascript)
+    * [Inspect the console and see the project in your browser](#inspect-the-console-and-see-the-project-in-your-browser)
+    * [Changing the styling with css](#chaning-the-styling-with-css)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -102,11 +99,7 @@ To verify that the project works, you can follow these steps:
 5. Open Chrome developer tools by hitting the F12 key or right clicking in the browser window and selecting 'inspect.'
 6. Select the console tab within the developer tools.
 7. Click the button that says "Click me!".
-8. The text rendered on the page should change, and the same text should show up as a message in your console.
-
-You should be able to see something like this:
-
-![Gif of browser opening and inspecting, button click, data change]
+8. The text rendered on the page should change, and the same text should show up as a message in your console - see the next point, Using the Console to Debug for more details on the browser console.
 
 If you encounter any issues, you can try the following steps to troubleshoot:  
 
@@ -116,7 +109,11 @@ If you encounter any issues, you can try the following steps to troubleshoot:
 
 ### Using the console to debug
 
-In the 'main.js' file on line 7 the log() method is called on the console. In this case, we ask that the console logs the 'data' from the JSON. This is a useful tool to test the results of our JavaScript code.
+In the 'main.js' file on line 7 the log() method is called on the console. The console is a part of the browser. In this case, we ask that the console logs the 'data' from the JSON. This is a useful tool to test the results of our JavaScript code. You can access the console by right-clicking your browser window and choosing inspect then, console from the top right area:
+
+![Screenshot of the webpage in a browser with the console open](./assets/console.png)
+
+By console logging we can see some output of our code, as well as any error messages the browser sends us when it attempts to execute the code.
 
 ### Changing the styling with css
 

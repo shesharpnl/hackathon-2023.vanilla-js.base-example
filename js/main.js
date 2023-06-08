@@ -7,7 +7,7 @@ async function showMeData() {
         console.log(data)
         return data;
     }
-    let data = await getData();
-    document.getElementById('output').innerHTML = data['one']
-    document.getElementById('output2').innerHTML = data['two']
+    let jsonData = await getData();
+    document.getElementById('output').innerHTML = jsonData.data[0].job_name;
+    document.getElementById('output2').innerHTML = jsonData.data[0].tag_categories[0];
 }
