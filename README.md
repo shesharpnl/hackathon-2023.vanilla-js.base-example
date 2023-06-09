@@ -21,12 +21,11 @@ The index.html file is the starting point. More pages can always be added.
     - [3) Install dependencies](#installing-dependencies)
 - [Usage](#usage)
     * [Inspect the console and see the project in your browser](#inspect-the-console-and-see-the-project-in-your-browser)
-    * [Changing the styling with css](#chaning-the-styling-with-css)
+    * [Changing the styling with css](#changing-the-styling-with-css)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Prerequisites
-
 
 ## Hold up! Want to just code in your browser?
 
