@@ -50,8 +50,6 @@ To install and being able to use this frontend project, you need to fork this re
 - [2) Clone the repository](#cloning-the-repository)
 - [3) Install dependencies](#installing-dependencies)
 
-
-
 ### 1) Fork the repository
 
 1. Go to the repository page on GitHub: [https://github.com/shesharpnl/hackathon-2023.vanilla-js.base-example](https://github.com/shesharpnl/hackathon-2023.vanilla-js.base-example).  
@@ -79,6 +77,24 @@ If you are cloning the repository using SSH, you will need to set up authenticat
 
 For this project, we recommend a live server extenstion for your code editor.
 [VS Code Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+### Enable GitHub Pages
+
+To enable GitHub Pages and be able to see your project deployed, you can follow these steps:
+
+1. Go in your forked repository, in the settings tab
+2. On the settings sidebar, click on the Pages link
+3. In the Build and deployment section, select:
+   1. the Source option "Deploy from a branch"
+   2. the Branch option "Main" & "/root"
+4. Click on "Save" in the Build and deployment section
+
+![GitHub pages section](assets/github-pages-screenshot.png)
+
+You can now access the website at this URL:
+
+https://YOUR_USERNAME.github.io/hackathon-2023.vanilla-js.base-example/
+
 
 ## Usage
 
