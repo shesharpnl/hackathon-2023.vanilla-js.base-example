@@ -152,7 +152,7 @@ In the address bar of your browser copy the whole raw.githubuser url. Replace th
 
 ## Contributing
 
-Contributions to this project are welcome! If you find a bug, have a feature request, or want to contribute code, please follow these guidelines:
+Contributions to this project are welcome! We accept PRs from existing community members and individuals that identify as an underrepresented gender in tech. [Read more about contributing to SheSharp projects.](https://github.com/shesharpnl/.github/blob/main/CONTRIBUTING.md#contributing-guidelines) If you find a bug, have a feature request, or want to contribute code, please follow these guidelines:
 
 1. Fork the repository and clone it to your local machine.
 2. Create a new branch for your changes: `git checkout -b my-branch-name`
