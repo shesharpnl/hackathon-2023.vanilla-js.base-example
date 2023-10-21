@@ -95,7 +95,6 @@ You can now access the website at this URL:
 
 https://YOUR_USERNAME.github.io/hackathon-2023.vanilla-js.base-example/
 
-
 ## Usage
 
 This is how the boilerplate will look rendered in the browser:
@@ -152,16 +151,7 @@ In the address bar of your browser copy the whole raw.githubuser url. Replace th
 
 ## Contributing
 
-Contributions to this project are welcome! We accept PRs from existing community members and individuals that identify as an underrepresented gender in tech. [Read more about contributing to SheSharp projects.](https://github.com/shesharpnl/.github/blob/main/CONTRIBUTING.md#contributing-guidelines) If you find a bug, have a feature request, or want to contribute code, please follow these guidelines:
-
-1. Fork the repository and clone it to your local machine.
-2. Create a new branch for your changes: `git checkout -b my-branch-name`
-3. Make your changes, and test them thoroughly.
-4. Commit your changes with a descriptive commit message.
-5. Push your changes to your forked repository: `git push origin my-branch-name`
-6. Open a pull request against the main branch of this repository, explaining the changes you've made and why they are important.
-
-Thank you for your contributions!
+Before starting, please read our [Contributing Guide](CONTRIBUTING.md) for detailed information and instructions on contributing to this repository.
 
 ## Credits
 
